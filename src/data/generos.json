@@ -1,0 +1,63 @@
+[
+  {
+    "nombre": "Rock Nacional",
+    "canciones": [
+      { "titulo": "Como Alí", "artista": "Los Piojos" },
+      { "titulo": "Costumbres Argentinas", "artista": "Los Abuelos de la Nada" },
+      { "titulo": "Yo no me quiero casar, ¿y usted?", "artista": "Turf" },
+      { "titulo": "Verano del 92", "artista": "Los Piojos" }
+    ]
+  },
+  {
+    "nombre": "Cumbia de Antes",
+    "canciones": [
+      { "titulo": "Si te vas", "artista": "La Nueva Luna" },
+      { "titulo": "¿A decirme qué?", "artista": "Los Lirios de Santa Fe" },
+      { "titulo": "Se parece más a ti", "artista": "Jambao" },
+      { "titulo": "El bombón asesino", "artista": "Los Palmeras" },
+      { "titulo": "Yo me enamoré", "artista": "Amar Azul" }
+    ]
+  },
+  {
+    "nombre": "Cuarteto",
+    "canciones": [
+      { "titulo": "Amor clasificado", "artista": "Rodrigo Bueno" },
+      { "titulo": "Mujeres que hacen mal", "artista": "Gary" },
+      { "titulo": "Adicto a ti", "artista": "Walter Olmos" },
+      { "titulo": "La morocha", "artista": "Luck Ra" },
+      { "titulo": "El federal", "artista": "La Mona Giménez" },
+      { "titulo": "Hola perdida", "artista": "Luck Ra" }
+    ]
+  },
+  {
+    "nombre": "Cumbia Actual",
+    "canciones": [
+      { "titulo": "Amor de vago", "artista": "La T y la M" },
+      { "titulo": "Costumbres", "artista": "Damas Gratis" },
+      { "titulo": "Debió ser así", "artista": "K Personajes" },
+      { "titulo": "Adicto a tu piel", "artista": "La Contra" },
+      { "titulo": "Otro día más", "artista": "K Personajes" }
+    ]
+  },
+  {
+    "nombre": "Folclore",
+    "canciones": [
+      { "titulo": "La ley y la trampa", "artista": "Chaqueño Palavecino" },
+      { "titulo": "Eterno amor", "artista": "Los Manseros Santiagueños" },
+      { "titulo": "La noche sin ti", "artista": "Los Huayra" },
+      { "titulo": "Amor salvaje", "artista": "Chaqueño Palavecino" },
+      { "titulo": "Zamba para olvidarte", "artista": "Daniel Toro" }
+    ]
+  },
+  {
+    "nombre": "Baladas Románticas",
+    "canciones": [
+      { "titulo": "Entre la tierra y el cielo", "artista": "Los Nocheros" },
+      { "titulo": "Qué lloro", "artista": "Sin Bandera" },
+      { "titulo": "Abrázame muy fuerte", "artista": "Juan Gabriel" },
+      { "titulo": "Dejaría todo", "artista": "Chayanne" },
+      { "titulo": "Rosas", "artista": "La Oreja de Van Gogh" },
+      { "titulo": "Tú de qué vas", "artista": "Franco de Vita" }
+    ]
+  }
+]
