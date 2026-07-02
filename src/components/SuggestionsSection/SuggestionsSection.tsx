@@ -27,7 +27,7 @@ export function SuggestionsSection() {
               Canal de contacto
             </p>
             <p className="text-acento-secundario font-display font-bold text-xl md:text-2xl">
-              @lier.ar
+              @lier.ar.ok
             </p>
             <p className="text-texto-secundario text-sm mt-4">
               Las sugerencias se revisan y suman manualmente por ahora.
@@ -35,7 +35,7 @@ export function SuggestionsSection() {
           </div>
 
           <motion.a
-            href="https://instagram.com/lier.ar"
+            href="https://www.instagram.com/lier.ar.ok/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-white font-display font-bold text-lg rounded-xl hover:opacity-90 transition-opacity shadow-lg"
