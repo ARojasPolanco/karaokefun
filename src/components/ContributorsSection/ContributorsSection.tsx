@@ -112,7 +112,7 @@ export function ContributorsSection() {
             </code>
           </p>
           <motion.a
-            href="<URL_REPO_GITHUB>"
+            href="https://github.com/ARojasPolanco/karaokefun"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-acento-primario/10 text-acento-primario font-display font-bold text-sm rounded-full border border-acento-primario/30 hover:bg-acento-primario/20 transition-all"

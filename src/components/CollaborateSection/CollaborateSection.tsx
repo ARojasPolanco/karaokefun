@@ -33,7 +33,7 @@ export function CollaborateSection() {
           </div>
 
           <motion.a
-            href="<URL_REPO_GITHUB>"
+            href="https://github.com/ARojasPolanco/karaokefun"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-acento-primario text-white font-display font-bold text-lg rounded-xl hover:bg-acento-primario/80 transition-colors shadow-lg"
